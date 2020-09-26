@@ -1,16 +1,54 @@
-### Hi there 👋
+## Cheers, I'm Lukas! 👋
 
-<!--
-**dotWee/dotWee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/dnkncht">
+  <img align="left" alt="Lukas Wolfsteiner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/lukas-wolfsteiner/">
+  <img align="left" alt="Lukas's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.reddit.com/user/dnkncht/">
+  <img align="left" alt="Lukas's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+
+<a href="https://last.fm/user/Twnksinr/">
+  <img align="left" alt="Lukas's LastFM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/last-dot-fm.svg" />
+</a>
+
+<a href="https://open.spotify.com/user/1183417465/">
+  <img align="left" alt="Lukas's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
+
+<a href="https://keybase.io/dotwee/">
+  <img align="left" alt="Lukas's Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
+</a>
+
+<a href="https://getpocket.com/@dnkncht/">
+  <img align="left" alt="Lukas's Pocket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pocket.svg" />
+</a>
+
+<a href="https://www.xing.com/profile/Lukas_Wolfsteiner2/">
+  <img align="left" alt="Lukas's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
+</a>
+
+<br />
+<br />
+
+Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Medical Health Informatics student 👨🏻‍🎓 at the [Technical University of Applied Sciences](https://www.oth-regensburg.de/) in Regensburg, Germany. Beside's programming, I enjoy digging into new digital health technologies 🧬 and getting lost in the philosophy of information 📚.
+
+<img align="right" width="384" src="https://i.redd.it/42gyr1spwoq31.jpg" />
+
+**Talking about Personal Stuffs:**
+
+- ⚙️ I use daily `.swift`, `.js`, `.html`, `.css`, `.svg`, `.stl`, `.cpp`
+- 💬 Ping me about **philosophy**, **arts**, **digital health**
+- 💅 Hosting [whatthefuckshouldlukashaveforlunch.com](https://whatthefuckshouldlukashaveforlunch.com)
+- 🌱 I’m currently learning about **mqtt** & **serverless architectures**
+- 📫 How to reach me **lukas@wolfsteiner.media**
+- 🔒 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/dotwee/pgp_keys.asc)
+
+![Lukas's github stats](https://github-readme-stats.vercel.app/api?username=dotwee&show_icons=true)
+
+
+###### 💾 EOF
