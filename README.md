@@ -35,9 +35,9 @@
 <br />
 <br />
 
-Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Medical Health Informatics student 👨🏻‍🎓 at the [Technical University of Applied Sciences](https://www.oth-regensburg.de/) in Regensburg, Germany. Beside's programming, I enjoy digging into new digital health technologies 🧬 and getting lost in the philosophy of information 📚.
+Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Medical Health Informatics student 👨🏻‍🎓 at the [Technical University of Applied Sciences](https://www.oth-regensburg.de/) in Regensburg, Germany. Beside's programming, I enjoy digging into new digital health technologies 🧬 and getting lost in the philosophy of information 📚. 
 
-<img align="right" width="384" src="https://i.redd.it/42gyr1spwoq31.jpg" />
+<img align="right" width="256" src="https://i.redd.it/42gyr1spwoq31.jpg" />
 
 **Talking about Personal Stuffs:**
 
@@ -47,8 +47,5 @@ Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Medical Health 
 - 🌱 I’m currently learning about **mqtt** & **serverless architectures**
 - 📫 How to reach me **lukas@wolfsteiner.media**
 - 🔒 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/dotwee/pgp_keys.asc)
-
-![Lukas's github stats](https://github-readme-stats.vercel.app/api?username=dotwee&show_icons=true)
-
 
 ###### 💾 EOF
