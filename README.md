@@ -1,41 +1,8 @@
-## Cheers, I'm Lukas! 👋
+## Cheers, I'm Lukas! 👋  
 
-<a href="https://twitter.com/dnkncht">
-  <img align="left" alt="Lukas Wolfsteiner | Twitter" width="22px" src="img/twitter.svg" />
-</a>
+[![Keybase Badge](https://img.shields.io/badge/Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/dotwee/)](https://keybase.io/dotwee/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dnkncht/)](https://twitter.com/dnkncht/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukas-wolfsteiner/)](https://www.linkedin.com/in/lukas-wolfsteiner/) [![Xing Badge](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white&link=https://www.xing.com/profile/Lukas_Wolfsteiner2/)](https://www.xing.com/profile/Lukas_Wolfsteiner2/) [![Pocket Badge](https://img.shields.io/badge/Pocket-EF3F56?style=flat-square&logo=pocket&logoColor=white&link=https://getpocket.com/@dnkncht/)](https://getpocket.com/@dnkncht/) [![LastFM Badge](https://img.shields.io/badge/Last.fm-D51007?style=flat-square&logo=last.fm&logoColor=white&link=https://last.fm/user/Twnksinr/)](https://last.fm/user/Twnksinr/)  
 
-<a href="https://www.linkedin.com/in/lukas-wolfsteiner/">
-  <img align="left" alt="Lukas's LinkedIn" width="22px" src="img/linkedin.svg" />
-</a>
-
-<a href="https://www.reddit.com/user/dnkncht/">
-  <img align="left" alt="Lukas's Reddit" width="22px" src="img/reddit.svg" />
-</a>
-
-<a href="https://last.fm/user/Twnksinr/">
-  <img align="left" alt="Lukas's LastFM" width="22px" src="img/last-dot-fm.svg" />
-</a>
-
-<a href="https://open.spotify.com/user/1183417465/">
-  <img align="left" alt="Lukas's Spotify" width="22px" src="img/spotify.svg" />
-</a>
-
-<a href="https://keybase.io/dotwee/">
-  <img align="left" alt="Lukas's Keybase" width="22px" src="img/keybase.svg" />
-</a>
-
-<a href="https://getpocket.com/@dnkncht/">
-  <img align="left" alt="Lukas's Pocket" width="22px" src="img/pocket.svg" />
-</a>
-
-<a href="https://www.xing.com/profile/Lukas_Wolfsteiner2/">
-  <img align="left" alt="Lukas's Xing" width="22px" src="img/xing.svg" />
-</a>
-
-<br />
-<br />
-
-Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Medical Health Informatics student 👨🏻‍🎓 at the [Technical University of Applied Sciences](https://www.oth-regensburg.de/) in Regensburg, Germany. Beside's programming, I enjoy digging into new digital health technologies 🧬 and getting lost in the philosophy of information 📚. 
+Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Medical Health Informatics student 👨🏻‍🎓 at the [Technical University of Applied Sciences](https://www.oth-regensburg.de/) in Regensburg, Germany. Beside's programming, I enjoy digging into new digital health technologies 🧬 and getting lost in the philosophy of information 📚.  
 
 <img align="right" width="256" src="https://i.redd.it/42gyr1spwoq31.jpg" />
 
