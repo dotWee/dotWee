@@ -8,10 +8,9 @@ Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Medical Health 
 
 **Talking about Personal Stuffs:**
 
-- ⚙️ I use daily `.swift`, `.js`, `.html`, `.css`, `.svg`, `.stl`, `.cpp`
+- ⚙️ I use daily `.swift`, `.js`, `.html`, `.css`, `.svg`, `.stl`
 - 💬 Ping me about **philosophy**, **arts**, **digital health**
-- 💅 Hosting [whatthefuckshouldlukashaveforlunch.com](https://whatthefuckshouldlukashaveforlunch.com)
-- 🌱 I’m currently learning about **mqtt** & **serverless architectures**
+- 🗒 I’m currently learning about **mqtt** & **serverless architectures**
 - 📫 How to reach me **lukas@wolfsteiner.media**
 - 🔒 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/dotwee/pgp_keys.asc)
 
