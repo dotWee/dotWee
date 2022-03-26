@@ -7,7 +7,7 @@
 [![Pocket Badge](https://img.shields.io/badge/Pocket-EF3F56?style=flat-square&logo=pocket&logoColor=white&link=https://getpocket.com/@dnkncht/)](https://getpocket.com/@dnkncht/)
 [![DockerHub Badge](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://hub.docker.com/u/dotwee)](https://hub.docker.com/u/dotwee/)  
 
-Hi, I'm [Lukas Wolfsteiner](https://lukas.wolfsteiner.media/), a Computer Science Bachelor student 👨🏻‍🎓 at the [Technical University of Applied Sciences](https://www.oth-regensburg.de/) in Regensburg, Germany.  
+Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a computer science bachelor student 👨🏻‍🎓 at the [technical university of applied sciences](https://www.oth-regensburg.de/) in regensburg, germany.  
 
 Beside's programming, I enjoy digging into [_digital health technologies_](https://www.fda.gov/medical-devices/digital-health-center-excellence/what-digital-health) 🧬 and getting lost in the [_philosophy of information_ 📚](https://en.wikipedia.org/wiki/Philosophy_of_information).  
 
@@ -16,10 +16,11 @@ Beside's programming, I enjoy digging into [_digital health technologies_](https
 
 **Talking about personal stuff:**
 
-- ⚙️ Daily working with `Dockerfile`'s, `.swift`, `.js`, `.stl`
+- ⚙️ Daily working with [`Dockerfile`](https://github.com/dotWee?tab=repositories&q=docker)'s, [`.swift`](https://github.com/dotWee?tab=repositories&language=swift), [`.js`](https://github.com/dotWee?tab=repositories&language=javascript), [`.stl`](https://github.com/dotWee/things)
 - 💬 Ping me about **philosophy**, **classical arts** & **digital health**
 - 🗒 Currently digging into electrical **circuit design** & **analysis**
 - 📫 Reach me at **lukas@wolfsteiner.media**
-- 🔒 PGP Public Key: [`170D 27E0 3F4D E09E`](https://keybase.io/dotwee/pgp_keys.asc)
+- 🔒 PGP public key: [`170D 27E0 3F4D E09E`](https://keybase.io/dotwee/pgp_keys.asc)
+
 
 ###### 💾 EOF
