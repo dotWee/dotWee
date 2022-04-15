@@ -12,7 +12,7 @@ Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a computer science bachelor s
 Beside's programming, I enjoy digging into [_digital health technologies_](https://www.fda.gov/medical-devices/digital-health-center-excellence/what-digital-health) 🧬 and getting lost in the [_philosophy of information_ 📚](https://en.wikipedia.org/wiki/Philosophy_of_information).  
 
 <img align="right" width="256" src="https://i.redd.it/42gyr1spwoq31.jpg" />
-<img align="right" width="0" height="0" referrerpolicy="no-referrer-when-downgrade" src="https://matm.dotwee.de/matomo.php?idsite=11&amp;rec=1&amp;action_name=GitHub+Profile" alt="" />
+<img align="right" width="0" height="0" referrerpolicy="no-referrer-when-downgrade" src="https://matm.dotwee.de/matm.php?idsite=11&rec=1&amp;action_name=GitHub+Profile" alt="" />
 
 **Talking about personal stuff:**
 
