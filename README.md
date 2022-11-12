@@ -1,6 +1,7 @@
 ## Cheers, I'm Lukas! 👋  
 
 [![Keybase Badge](https://img.shields.io/badge/Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/dotwee/)](https://keybase.io/dotwee/)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=Mastodon&logoColor=white&link=https://sueden.social/@dotwee/)](https://sueden.social/@dotwee)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dnkncht/)](https://twitter.com/dnkncht/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukas-wolfsteiner/)](https://www.linkedin.com/in/lukas-wolfsteiner/)
 [![Xing Badge](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white&link=https://www.xing.com/profile/Lukas_Wolfsteiner2/)](https://www.xing.com/profile/Lukas_Wolfsteiner2/)
