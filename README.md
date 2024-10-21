@@ -2,10 +2,10 @@
 
 [![HuggingFace Badge](https://img.shields.io/badge/HuggingFace-ecd552?style=flat-square&logo=huggingface&logoColor=black&link=https://huggingface.co/dotwee)](https://huggingface.co/dotwee/)
 [![X.com Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white&link=https://x.com/dnkncht/)](https://x.com/dnkncht/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukas-wolfsteiner/)](https://www.linkedin.com/in/lukas-wolfsteiner/)
-[![Xing Badge](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white&link=https://www.xing.com/profile/Lukas_Wolfsteiner2/)](https://www.xing.com/profile/Lukas_Wolfsteiner2/)
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-f48024?style=flat-square&logo=keybase&logoColor=white&link=https://stackoverflow.com/users/5489456/lukas)](https://stackoverflow.com/users/5489456/lukas)
-[![DockerHub Badge](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://hub.docker.com/u/dotwee)](https://hub.docker.com/u/dotwee/)  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://lukas.wolfsteiner.media/links/linkedin)](https://lukas.wolfsteiner.media/links/linkedin)
+[![Xing Badge](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white&link=https://lukas.wolfsteiner.media/links/xing)](https://lukas.wolfsteiner.media/links/xing)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-f48024?style=flat-square&logo=keybase&logoColor=white&link=https://lukas.wolfsteiner.media/links/stackoverflow)](https://lukas.wolfsteiner.media/links/stackoverflow)
+[![DockerHub Badge](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://lukas.wolfsteiner.media/links/dockerhub)](https://lukas.wolfsteiner.media/links/dockerhub)  
 
 Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a software engineer 👨🏻‍💻 based in bavaria, germany.
 
