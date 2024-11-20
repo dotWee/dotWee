@@ -8,7 +8,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-f48024?style=flat-square&logo=keybase&logoColor=white&link=https://lukas.wolfsteiner.media/links/stackoverflow)](https://lukas.wolfsteiner.media/links/stackoverflow)
 [![DockerHub Badge](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://lukas.wolfsteiner.media/links/dockerhub)](https://lukas.wolfsteiner.media/links/dockerhub)  
 
-Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a software engineer 👨🏻‍💻 based in bavaria, germany.
+Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a senior software engineer 👨🏻‍💻 based in bavaria, germany.
 
 Beside's programming, I enjoy digging into [_digital health technologies_](https://www.fda.gov/medical-devices/digital-health-center-excellence/what-digital-health) 🧬 and getting lost in the [_philosophy of information_ 📚](https://en.wikipedia.org/wiki/Philosophy_of_information).  
 
