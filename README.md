@@ -1,5 +1,6 @@
 ## Cheers, I'm Lukas! 👋
 
+[![ORCID Badge](https://img.shields.io/badge/ORCID-b2cb58?style=flat-square&logo=orcid&logoColor=black&link=https://lukas.wolfsteiner.media/links/orcid)](https://lukas.wolfsteiner.media/links/orcid)
 [![HuggingFace Badge](https://img.shields.io/badge/HuggingFace-ecd552?style=flat-square&logo=huggingface&logoColor=black&link=https://huggingface.co/dotwee)](https://huggingface.co/dotwee/)
 [![X.com Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white&link=https://x.com/dnkncht/)](https://x.com/dnkncht/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://lukas.wolfsteiner.media/links/linkedin)](https://lukas.wolfsteiner.media/links/linkedin)
