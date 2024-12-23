@@ -22,6 +22,6 @@ Beside's programming, I enjoy digging into [_digital health technologies_](https
 - 💬 Ping me about **philosophy**, **classical arts** & **digital health**
 - 🗒 Currently digging into electrical **circuit design** & **analysis**
 - 📫 Reach me at **lukas@wolfsteiner.media**
-- 🔒 PGP public key: [`170D 27E0 3F4D E09E`](https://keybase.io/dotwee/pgp_keys.asc)
+- 🔒 PGP public key: [`170D 27E0 3F4D E09E`](https://lukas.wolfsteiner.media/assets/public.key)
 
 ###### 💾 EOF
