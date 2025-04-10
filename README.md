@@ -9,7 +9,7 @@
 [![DockerHub Badge](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://lukas.wolfsteiner.media/links/dockerhub)](https://lukas.wolfsteiner.media/links/dockerhub)
 [![dev.to Badge](https://img.shields.io/badge/dev.to-0a0a0a?style=flat-square&logo=dev.to&logoColor=white&link=https://lukas.wolfsteiner.media/links/devto)](https://lukas.wolfsteiner.media/links/devto)  
 
-Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a senior software engineer 👨🏻‍💻 based in bavaria, germany.
+Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a german senior software engineer 👨🏻‍💻 based in zurich, switzerland.
 
 Beside's programming, I enjoy digging into [_digital health technologies_](https://www.fda.gov/medical-devices/digital-health-center-excellence/what-digital-health) 🧬 and getting lost in the [_philosophy of information_ 📚](https://en.wikipedia.org/wiki/Philosophy_of_information).  
 
