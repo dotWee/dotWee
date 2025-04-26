@@ -1,15 +1,15 @@
 ## Cheers, I'm Lukas! 👋
 
-[![ORCID Badge](https://img.shields.io/badge/ORCID-b2cb58?style=flat-square&logo=orcid&logoColor=black&link=https://lukas.wolfsteiner.media/links/orcid)](https://lukas.wolfsteiner.media/links/orcid)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-b2cb58?style=flat-square&logo=orcid&logoColor=black&link=https://lukas.wolfsteiner.media/links/orcid?ref=github-profile-readme)](https://lukas.wolfsteiner.media/links/orcid?ref=github-profile-readme)
 [![HuggingFace Badge](https://img.shields.io/badge/HuggingFace-ecd552?style=flat-square&logo=huggingface&logoColor=black&link=https://huggingface.co/dotwee)](https://huggingface.co/dotwee/)
-[![X.com Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white&link=https://x.com/dnkncht/)](https://x.com/dnkncht/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://lukas.wolfsteiner.media/links/linkedin)](https://lukas.wolfsteiner.media/links/linkedin)
-[![Xing Badge](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white&link=https://lukas.wolfsteiner.media/links/xing)](https://lukas.wolfsteiner.media/links/xing)
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-f48024?style=flat-square&logo=keybase&logoColor=white&link=https://lukas.wolfsteiner.media/links/stackoverflow)](https://lukas.wolfsteiner.media/links/stackoverflow)
-[![DockerHub Badge](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://lukas.wolfsteiner.media/links/dockerhub)](https://lukas.wolfsteiner.media/links/dockerhub)
-[![dev.to Badge](https://img.shields.io/badge/dev.to-0a0a0a?style=flat-square&logo=dev.to&logoColor=white&link=https://lukas.wolfsteiner.media/links/devto)](https://lukas.wolfsteiner.media/links/devto)  
+[![X.com Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white&link=https://lukas.wolfsteiner.media/links/x?ref=github-profile-readme)](https://lukas.wolfsteiner.media/links/x?ref=github-profile-readme)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://lukas.wolfsteiner.media/links/linkedin?ref=github-profile-readme)](https://lukas.wolfsteiner.media/links/linkedin?ref=github-profile-readme)
+[![Xing Badge](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white&link=https://lukas.wolfsteiner.media/links/xing?ref=github-profile-readme)](https://lukas.wolfsteiner.media/links/xing?ref=github-profile-readme)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-f48024?style=flat-square&logo=keybase&logoColor=white&link=https://lukas.wolfsteiner.media/links/stackoverflow?ref=github-profile-readme)](https://lukas.wolfsteiner.media/links/stackoverflow?ref=github-profile-readme)
+[![DockerHub Badge](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white&link=https://lukas.wolfsteiner.media/links/dockerhub?ref=github-profile-readme)](https://lukas.wolfsteiner.media/links/dockerhub?ref=github-profile-readme)
+[![dev.to Badge](https://img.shields.io/badge/dev.to-0a0a0a?style=flat-square&logo=dev.to&logoColor=white&link=https://lukas.wolfsteiner.media/links/devto?ref=github-profile-readme)](https://lukas.wolfsteiner.media/links/devto?ref=github-profile-readme)  
 
-Hi, I'm [Lukas](https://lukas.wolfsteiner.media/), a german senior software engineer 👨🏻‍💻 based in zurich, switzerland.
+Hi, I'm [Lukas](https://lukas.wolfsteiner.media/?ref=github-profile-readme), a german senior software engineer 👨🏻‍💻 based in zurich, switzerland.
 
 Beside's programming, I enjoy digging into [_digital health technologies_](https://www.fda.gov/medical-devices/digital-health-center-excellence/what-digital-health) 🧬 and getting lost in the [_philosophy of information_ 📚](https://en.wikipedia.org/wiki/Philosophy_of_information).  
 
